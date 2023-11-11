@@ -1,0 +1,9 @@
+public class fixError {
+    public class
+{
+public static void main(String[] args)//its static key word its first letter is written in capital letter so changing it it wil fix the problem
+{
+System.out.println( "I want this program to compile");//here the string it provide is not in quotation marks so putting it will fix the syntax error and also the system key word the initial letter should be written in capital letter
+}
+    
+}
