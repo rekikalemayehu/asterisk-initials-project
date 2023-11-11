@@ -1,6 +1,6 @@
 public class PersonalInformation {
     public static void main (String[] args){
-    System.out.println("Rekik Alemayehu\nAddisAbaba,ethiopia\n+251948171979");
+    System.out.println("Rekik Alemayehu\nAddisAbaba,ethiopia\n+251948171979");//using "/n"
     }
     
 }
